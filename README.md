@@ -9,7 +9,7 @@
   </h1>
 
   <h3>Web • Mobile • Desktop Application Developer</h3>
-
+🌱 Currently learning: **DevOps**
   <p>
     I build scalable, clean, and modern applications using the latest
     frontend, backend, and database technologies.
@@ -74,14 +74,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanialNiaz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanialNiaz&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DanialNiaz&show_icons=true&count_private=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanialNiaz&theme=tokyonight&hide_border=true" height="165"/>
 </div>
+
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanialNiaz&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanialNiaz&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
 </div>
 
 <hr/>
@@ -91,7 +92,7 @@
 <div align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
