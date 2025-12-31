@@ -74,15 +74,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DanialNiaz&show_icons=true&count_private=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanialNiaz&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DanialNiaz&show_icons=true&count_private=true&theme=tokyonight" height="180" alt="Danial's GitHub Stats"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanialNiaz&theme=tokyonight&hide_border=true" height="180" alt="Danial's GitHub Streak"/>
 </div>
-
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanialNiaz&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanialNiaz&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Danial's Top Languages"/>
 </div>
 
 <hr/>
@@ -92,10 +92,10 @@
 <div align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
