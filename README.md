@@ -71,22 +71,6 @@
 
 <hr/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanialNiaz&show_icons=true&count_private=true&theme=tokyonight" height="180" alt="Danial's GitHub Stats"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanialNiaz&theme=tokyonight&hide_border=true" height="180" alt="Danial's GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanialNiaz&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Danial's Top Languages"/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
