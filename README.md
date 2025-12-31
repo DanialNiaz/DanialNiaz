@@ -3,7 +3,21 @@
 <!-- ============================= -->
 
 <div align="center">
-  <h1>Hi 👋, I'm Danial Niaz</h1>
+<img 
+  src="https://readme-typing-svg.demolab.com
+  ?font=JetBrains+Mono
+  &size=26
+  &duration=3000
+  &pause=1200
+  &color=22C55E
+  &center=true
+  &vCenter=true
+  &width=750
+  &lines=Hi%2C+I%27m+Danial+Niaz;
+          Full+Stack+Web+Developer;
+          Mobile+App+Developer"
+/>
+
   <h3>Full-Stack Developer | Web, Mobile & Desktop Applications</h3>
   <p>
     Passionate about building clean, scalable, and user-friendly applications
