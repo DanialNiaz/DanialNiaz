@@ -1,39 +1,31 @@
 <!-- ============================= -->
-<!--  GitHub Profile README (HTML) -->
+<!--  GitHub Profile README       -->
 <!-- ============================= -->
 
 <div align="center">
-<img 
-  src="https://readme-typing-svg.demolab.com
-  ?font=JetBrains+Mono
-  &size=26
-  &duration=3000
-  &pause=1200
-  &color=22C55E
-  &center=true
-  &vCenter=true
-  &width=750
-  &lines=Hi%2C+I%27m+Danial+Niaz;
-          Full+Stack+Web+Developer;
-          Mobile+App+Developer"
-/>
 
-  <h3>Full-Stack Developer | Web, Mobile & Desktop Applications</h3>
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Danial+Niaz;I%27m+a+Full+Stack+Web+Developer;I%27m+a+Mobile+App+Developer" alt="Typing SVG" />
+  </h1>
+
+  <h3>Web • Mobile • Desktop Application Developer</h3>
+
   <p>
-    Passionate about building clean, scalable, and user-friendly applications
-    using modern frontend, backend, and database technologies.
+    I build scalable, clean, and modern applications using the latest
+    frontend, backend, and database technologies.
   </p>
+
 </div>
 
 <hr/>
 
 <h2>🚀 About Me</h2>
 <ul>
-  <li>💻 Full-stack developer with hands-on project experience</li>
+  <li>💻 Full-stack developer with real-world project experience</li>
   <li>🧠 Focused on clean architecture and maintainable code</li>
-  <li>🌐 Experienced in web, mobile, and desktop applications</li>
-  <li>📦 Skilled in REST APIs, databases, and modern UI frameworks</li>
-  <li>🚀 Always learning and improving through real-world projects</li>
+  <li>🌐 Web, 📱 Mobile & 🖥️ Desktop applications</li>
+  <li>⚙️ REST APIs, databases, and system integrations</li>
+  <li>🚀 Continuous learner & problem solver</li>
 </ul>
 
 <hr/>
@@ -42,59 +34,84 @@
 
 <h3>🎨 Frontend</h3>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 <h3>📱 Mobile</h3>
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 <h3>⚙️ Backend</h3>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 <h3>🗄️ Databases</h3>
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
-<h3>🔧 Tools & Version Control</h3>
+<h3>🔧 Version Control & Tools</h3>
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <hr/>
 
-<h2>📂 Projects & Experience</h2>
-<ul>
-  <li>🌐 Web applications using Angular & React</li>
-  <li>🤖 Chatbot systems with frontend & backend integration</li>
-  <li>🖥️ Desktop applications using C# & SQL databases</li>
-  <li>📱 Cross-platform mobile apps with Flutter</li>
-  <li>⚙️ RESTful APIs with Node.js, Express & MongoDB</li>
-</ul>
-
-<hr/>
-
-<h2>📫 Connect With Me</h2>
-<p>
-  <a href="https://github.com/DanialNiaz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DanialNiaz-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<hr/>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <p>⭐ If you like my work, consider starring my repositories!</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=DanialNiaz&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanialNiaz&theme=tokyonight&hide_border=true" height="170"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanialNiaz&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<div align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <strong>🚀 Building solutions with the right tools for the job</strong>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
